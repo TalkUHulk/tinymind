@@ -1,3 +1,6 @@
 [submodule "tinymind-cpp"]
 	path = tinymind-cpp
 	url = https://github.com/TalkUHulk/tinymind-cpp
+[submodule "tinymind-ios-demo"]
+	path = tinymind-ios-demo
+	url = https://github.com/TalkUHulk/tinymind-ios-demo
