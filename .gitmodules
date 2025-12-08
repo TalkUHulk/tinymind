@@ -1,0 +1,3 @@
+[submodule "tinymind-cpp"]
+	path = tinymind-cpp
+	url = https://github.com/TalkUHulk/tinymind-cpp
