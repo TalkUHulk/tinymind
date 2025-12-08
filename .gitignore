@@ -1,0 +1,6 @@
+build
+cmake-build-debug
+.idea
+*.zip
+*.mp4
+.DS_Store
