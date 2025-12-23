@@ -1,3 +1,11 @@
+<!--
+ * @Author: Hulk Wang 593063075@qq.com
+ * @Date: 2025-12-08 21:23:34
+ * @LastEditors: Hulk Wang 593063075@qq.com
+ * @LastEditTime: 2025-12-23 18:58:44
+ * @FilePath: /tinymind/ReadMe.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # TinyMind
 
 
@@ -27,7 +35,7 @@ https://github.com/user-attachments/assets/7d036349-dcc9-42ad-b202-77a1fa3f8f38
 </table>
 </div>
 
-## 整理中
+## 整理中（最近有点忙）, 知乎文章链接：https://zhuanlan.zhihu.com/p/1982031267370389720
 
 
 
